@@ -37,7 +37,8 @@ Skills: Python / JS / HTML / CSS / Swift
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/BillyWazir)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/BillyWazir)  
+![Profile views](https://gpvc.arturio.dev/https://github.com/BillyWazir) 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=BillyWazir&theme=onedark)](https://github.com/BillyWazir/github-profile-trophy)
 
 
