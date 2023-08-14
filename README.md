@@ -7,11 +7,12 @@
 - 💬 Ask me about cars, cats and coffee 😻🏎️☕
 - 📫 How to reach me: m.wazir@student.curtin.edu.au
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=puma.loco&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=puma.loco&redirect=true)
-
-
-  
 - ⚡ Fun fact: You've likely heard of the Big Bang, the event that birthed our universe. But here's a twist: While we often think of the Big Bang as a kind of explosion that happened at a particular point in space, that's not quite right. Instead, the Big Bang happened everywhere at once. This means there isn't a "center" of the universe from which everything is expanding away. Every point in the universe is, from its own perspective, the center. To visualize this, think of a balloon with dots on it. As you blow up the balloon, the dots move away from each other, but there's no single "center" dot from which all the others are moving away. Instead, every dot sees itself as stationary and perceives the other dots as moving away from it. Similarly, as the universe expands, galaxies move away from each other, but not from a central starting point.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BillyWazir&theme=onedark)](https://github.com/BillyWazir/github-profile-trophy)
+
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=puma.loco&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=puma.loco&redirect=true)
 
 
 
