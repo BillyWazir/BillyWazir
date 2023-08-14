@@ -1,5 +1,7 @@
 ### Hi there 👋
 -- Profile Views -- ![Visitor Count](https://profile-counter.glitch.me/BillyWazir/count.svg)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BillyWazir&left_color=purple&right_color=blue)
 - 🌱 I’m currently learning Ai tools and development of business appplications
 - 👯 I’m looking to collaborate on Any form of project that is based around Ai so i can learn more
 - 💬 Ask me about cars, cats and coffee 😻🏎️☕
