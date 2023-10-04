@@ -1,5 +1,5 @@
-### Hi there 👋
--- Profile Views -- ![Visitor Count](https://profile-counter.glitch.me/BillyWazir/count.svg)
+
+-- You are visitor number - ![Visitor Count](https://profile-counter.glitch.me/BillyWazir/count.svg)
 
 
 ### Hi there 👋, my name is Bilal :)
